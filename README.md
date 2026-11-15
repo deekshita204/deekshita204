@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👾 PLAYER ONE: DEEKSHITA
+# 👾 PLAYER ONE: DOPAMINE
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=DATA+SCIENCE+STUDENT;PYTHON+ENTHUSIAST;TURNING+DATA+INTO+INSIGHTS" />
 
